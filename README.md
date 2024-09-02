@@ -10,11 +10,11 @@ I built this application as a way to store, track and update employee data in a 
 
 ### Video walkthrough showing application functionality:
 
-[Video Walkthrough](https://drive.google.com/file/d/1bN21kN1ir-DQCLGn9pK-A-WVUk6Yx4c-/view). 
+[Video Walkthrough](https://drive.google.com/file/d/1bN21kN1ir-DQCLGn9pK-A-WVUk6Yx4c-/view)
 
 ### Screenshot of application showing user input prompts:
 
-The screenshot below shows the application being run in the command line. Specifically, it shows how a new employee, named 'John Doe' has been added to the database in a newly created role. 
+The screenshot below shows the application being run in the command line. Specifically, it shows how a new employee, named 'Michael Jackson' has been added to the database in a newly created role. 
 
 ![Screenshot of application being run in the command line](./assets/employee-tracker.jpeg)
             
