@@ -14,7 +14,7 @@ I built this application as a way to store, track and update employee data in a 
 
 ### Screenshot of application showing user input prompts:
 
-The screenshot below shows the application being run in the command line. Specifically, it shows how a new employee, named 'Michael Jackson' has been added to the database in a newly created role. 
+The screenshot below shows the application being run in the command line.
 
 ![Screenshot of application being run in the command line](./assets/employee-tracker.jpeg)
             
